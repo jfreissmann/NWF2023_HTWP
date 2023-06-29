@@ -8,4 +8,6 @@ You can find information regarding the conference on the respective [homepage](h
 
 # Description of contents
 
-*To be continued.*
+[] - Sonderborg network (Input/Output)
+[] - TESPy (Setup 1, 2, 3 - .py & param)
+[] - TESPy Characteristika
