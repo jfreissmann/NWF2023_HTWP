@@ -8,10 +8,6 @@ You can find information regarding the conference on the respective [homepage](h
 
 # Description of contents
 
-- [ ] Sonderborg network (Input/Output)
-- [ ] TESPy (Setup 1, 2, 3 - .py & param)
-- [ ] TESPy Characteristika
-
 ## Heat pump models
 
 This folder contains two heat pump models and input data. The first model is a simple heat pump cycle containing only the basic components compressor, condenser, evaporator and valve. The second model employs the two most popular economizer topologies: a closed economizer, which is basically an internal heat exchanger and an open economizer with a flashtank. Additionally, you can find the parameter JSON files for the three setups used in the paper in this folder as well. Finally, the simulated part load characteristics of the three heat pumps are included.
