@@ -1,0 +1,33 @@
+{
+    "hp": {
+        "op_cost_var": 1.2,
+        "op_cost_fix": 4000.0,
+        "inv_spez": 480000.0
+    },
+    "ice": {
+        "op_cost_var": 5.4,
+        "op_cost_fix": 9750.0,
+        "inv_spez": 950000.0
+    },
+    "plb": {
+        "Q_N": 4.28,
+        "Q_rel_max": 1.0,
+        "Q_rel_min": 0.15,
+        "eta": 0.95,
+        "op_cost_var": 1.1,
+        "op_cost_fix": 1950.0,
+        "inv_spez": 60000.0
+    },
+    "param": {
+        "mipgap": 0.02,
+        "ef_gas": 0.2012,
+        "elec_consumer_charges_grid": 32.02,
+        "elec_consumer_charges_self": 0.00,
+        "heat_price": 76.74,
+        "energy_tax": 5.5,
+        "chp_bonus": false,
+        "h_max_chp_bonus": 0,
+        "TEHG_bonus": 0.0,
+        "vNNE": 7.0
+    }
+}

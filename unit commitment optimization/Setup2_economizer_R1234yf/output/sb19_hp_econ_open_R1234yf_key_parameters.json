@@ -1,0 +1,17 @@
+{
+    "balance_total": 1390439.9596028829,
+    "cost_el": 53411.27488346584,
+    "cost_el_grid": 53411.27488346584,
+    "cost_el_internal": 0.0,
+    "cost_gas": 1132381.175642942,
+    "cost_total": 1412236.673756644,
+    "gap": 0.0001244837753991325,
+    "ice_chp_bonus": 38.16958664223871,
+    "invest_total": 7656529.477196013,
+    "objective": -1447043.511000921,
+    "op_cost_total": 226444.22323023598,
+    "revenues_chpbonus": 0.0,
+    "revenues_heat": 1671524.0546536543,
+    "revenues_spotmarket": 1131152.5787058724,
+    "revenues_total": 2802676.6333595267
+}
