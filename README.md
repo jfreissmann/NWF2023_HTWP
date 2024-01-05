@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/660190589.svg)](https://zenodo.org/doi/10.5281/zenodo.10461018)
+
 # Overview
 
 This repository contains additional information and data relating to the contribution to the "1. Norddeutsche Wärmeforschungskonferenz" from the authors J. Freißmann, M. Fritz and I. Tuschy. It serves to allow for reproduction of the obtained results.
